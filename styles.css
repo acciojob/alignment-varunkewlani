@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+text-alignhttps://www.svgrepo.com/show/345221/three-dots.svg: center;
+        }
+td{
+	border:1px solid black;
+}
+        table.middle {
+            border: 1px solid black;
+            border-spacing: 1px;
+            padding: 1px;
+            width: 100%;
+        }
+        .center {
+            text-align: center;
+        }
+        .right {
+            text-align: right;
+        }
+        .green {
+            background-color: green;
+        }
+        .blue {
+            background-color: blue;
+        }
